@@ -1,4 +1,4 @@
 # 1dlbm
-1d lattice boltzmann models 
+1d lattice boltzmann model
 
-Implements a class structure for 1D lattice boltzmann solvers.
+
